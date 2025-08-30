@@ -1,0 +1,3 @@
+Sample,Adapter Content,Basic Statistics,Overrepresented sequences,Per base N content,Per base sequence content,Per base sequence quality,Per sequence GC content,Per sequence quality scores,Per tile sequence quality,Sequence Duplication Levels,Sequence Length Distribution
+sample1_1_fastqc,PASS,PASS,PASS,PASS,FAIL,PASS,FAIL,PASS,WARN,WARN,WARN
+sample1_2_fastqc,PASS,PASS,WARN,PASS,FAIL,FAIL,FAIL,PASS,PASS,WARN,WARN
