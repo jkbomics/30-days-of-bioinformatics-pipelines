@@ -12,10 +12,10 @@ Each day, I’ll publish a small project/script in this repository, documenting 
 
 - **[Day 1: Bash script to run FastQC](./Day1_FastQC_Bash/)**  
   A simple Bash script to run FastQC on FASTQ files inside a folder and save reports into a results directory.  
-
 - **[Day 2: Python script to parse FastQC results](./Day2_FastQC_Parse/)**  
   A Python script that automatically unzips FastQC result files, extracts `summary.txt`, and combines them into a single **CSV summary table** (PASS/WARN/FAIL per sample).  
-- Day 3: *(coming soon... R script for PCA plot of gene expression data)*  
+- **[Day 3: PCA Plot in R](./Day3_PCA_R/)**  
+  A basic R script that takes a gene expression matrix and generates a PCA plot to visualize sample clustering.  
 - Day 4: *(coming soon... Volcano plot generator in R)*  
 - Day 5: *(coming soon... File renaming automation with Bash/Python)*  
 - … and more up to **Day 30** 🚀  
@@ -51,30 +51,3 @@ Instead, instructions or links are provided in each day’s README to download s
 I’ll be updating this repo daily for the next 30 days.  
 If you’re interested in bioinformatics pipelines, feel free to **watch ⭐ the repo** and follow along!  
 =======
-\## 📅 Daily Progress
-
-
-
-\- \*\*\[Day 1: Bash script to run FastQC](./Day1\_FastQC\_Bash/)\*\*  
-
-&nbsp; A simple Bash script to run FastQC on FASTQ files inside a folder and save reports into a results directory.  
-
-
-
-\- \*\*\[Day 2: Python script to parse FastQC results](./Day2\_FastQC\_Parse/)\*\*  
-
-&nbsp; A Python script that automatically unzips FastQC result files, extracts `summary.txt`, and combines them into a single \*\*CSV summary table\*\* (PASS/WARN/FAIL per sample).  
-
-
-
-\- Day 3: \*(coming soon... R script for PCA plot of gene expression data)\*  
-
-\- Day 4: \*(coming soon... Volcano plot generator in R)\*  
-
-\- Day 5: \*(coming soon... File renaming automation with Bash/Python)\*  
-
-\- … and more up to \*\*Day 30\*\* 🚀  
-
-
-
->>>>>>> Day 2: Added Python script to parse FastQC results into summary table
