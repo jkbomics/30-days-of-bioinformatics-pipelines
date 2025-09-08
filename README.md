@@ -1,4 +1,4 @@
-<HEAD
+<<<<<HEAD
 # 🚀 30 Days of Bioinformatics Pipelines
 
 Welcome to my **30-day learning challenge** on building and automating **bioinformatics pipelines**!  
