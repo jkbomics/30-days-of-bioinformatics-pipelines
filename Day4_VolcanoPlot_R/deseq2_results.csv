@@ -1,0 +1,6 @@
+gene,log2foldchange,padj
+GeneA,2.5,0.001
+GeneB,-1.8,0.05
+GeneC,0.2,0.8
+GeneD,-2.2,0.0005
+GeneE,1.5,0.2
