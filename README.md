@@ -15,7 +15,8 @@ Each day, I’ll publish a small project/script in this repository, documenting 
   A Python script that automatically unzips FastQC result files, extracts `summary.txt`, and combines them into a single **CSV summary table** (PASS/WARN/FAIL per sample).  
 - **[Day 3: PCA Plot in R](./Day3_R_script_for_PCA_plot/)**  
   A basic R script that takes a gene expression matrix and generates a PCA plot to visualize sample clustering.  
-- Day 4: *(coming soon... Volcano plot generator in R)*  
+- **[Day 4: Volcano plot generator in R](./Day4_VolcanoPlot_R/)**
+  A R script that generates a volcano plot from DESeq2 differential expression results, a widely used visualization to identify significantly upregulated and downregulated genes.
 - Day 5: *(coming soon... File renaming automation with Bash/Python)*  
 - … and more up to **Day 30** 🚀  
 
