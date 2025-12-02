@@ -13,7 +13,7 @@ Each day, I’ll publish a small project/script in this repository, documenting 
   A simple Bash script to run FastQC on FASTQ files inside a folder and save reports into a results directory.  
 - **[Day 2: Python script to parse FastQC results](./Day2_FastQC_Parse/)**  
   A Python script that automatically unzips FastQC result files, extracts `summary.txt`, and combines them into a single **CSV summary table** (PASS/WARN/FAIL per sample).  
-- **[Day 3: PCA Plot in R](./Day3_PCA_R/)**  
+- **[Day 3: PCA Plot in R](./Day3_R_script_for_PCA_plot/)**  
   A basic R script that takes a gene expression matrix and generates a PCA plot to visualize sample clustering.  
 - Day 4: *(coming soon... Volcano plot generator in R)*  
 - Day 5: *(coming soon... File renaming automation with Bash/Python)*  
